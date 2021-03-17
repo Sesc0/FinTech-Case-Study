@@ -14,15 +14,20 @@ Square's S-1 SEC filing
 
 * Who are the founders of the company?
 
-Jack Dorsey, Jim McKelvey
-Source: https://squareup.com/us/en/about
+Jack Dorsey, Jim McKelvey  
+Source: "https://squareup.com/us/en/about"  
+About Page on Square's website 
 
 * How did the idea for the company (or project) come about?
 
 In February of 2009, Jack Dorsey and Jim McKelvey wanted to create a way for people to accept credit card payments on their mobile phone.
 
-* How is the company funded? How much funding have they received?
-Currently Square is a publicly traded company. 
+* How is the company funded? How much funding have they received?  
+Currently Square is a publicly traded company.  
+Long-term debt: 2,586,924  
+Additional paid-in capital: 2,955,464  
+Stockholders' equity: 2,681,569  
+Total funding: 8,223,957
 
 
 ## Business Activities:
