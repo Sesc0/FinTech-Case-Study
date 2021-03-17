@@ -22,7 +22,8 @@ About Page on Square's website
 
 In February of 2009, Jack Dorsey and Jim McKelvey wanted to create a way for people to accept credit card payments on their mobile phone.
 
-* How is the company funded? How much funding have they received?  
+* How is the company funded? How much funding have they received?
+
 Currently Square is a publicly traded company.  
 Long-term debt: $2,586,924  
 Additional paid-in capital: $2,955,464  
