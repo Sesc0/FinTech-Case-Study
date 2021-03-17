@@ -24,10 +24,14 @@ In February of 2009, Jack Dorsey and Jim McKelvey wanted to create a way for peo
 
 * How is the company funded? How much funding have they received?  
 Currently Square is a publicly traded company.  
-Long-term debt: 2,586,924  
-Additional paid-in capital: 2,955,464  
-Stockholders' equity: 2,681,569  
-Total funding: 8,223,957
+Long-term debt: $2,586,924  
+Additional paid-in capital: $2,955,464  
+Stockholders' equity: $2,681,569  
+Total funding: $8,223,957
+
+I assume those specific line items determine reveal the amount of funding a public company has received, but I could be wrong.  
+Source: "http://d18rn0p25nwr6d.cloudfront.net/CIK-0001512673/52bbe522-d4aa-4306-8975-9671e475c2f9.html#"  
+Square, Inc 10-K
 
 
 ## Business Activities:
