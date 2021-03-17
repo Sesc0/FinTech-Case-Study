@@ -8,7 +8,7 @@ Square, Inc.
 
 * When was the company incorporated?
 
-October 14, 2015
+October 14, 2015  
 Source: http://d1lge852tjjqow.cloudfront.net/CIK-0001512673/4e45259f-3df5-4333-862d-25736bf555c0.pdf
 Square's S-1 SEC filing
 
