@@ -38,7 +38,8 @@ Square, Inc 10-K
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
-As stated above, square wants to allow people to accept card payments from their mobile devices. Square's product grants a new level of accessibility to small business owners. 
+As stated above, square wants to allow people to accept card payments from their mobile devices. Square's products grant a new level of accessibility to small business owners as well as everyday consumers.  
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
