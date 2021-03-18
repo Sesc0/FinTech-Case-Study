@@ -14,7 +14,7 @@ Square's S-1 SEC filing
 
 * Who are the founders of the company?
 
-Jack Dorsey, Jim McKelvey  
+Jack Dorsey & Jim McKelvey  
 Source: "https://squareup.com/us/en/about"  
 About Page on Square's website 
 
@@ -38,6 +38,7 @@ Square, Inc 10-K
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+As stated above, square wants to allow people to accept card payments from their mobile devices. Square's product grants a new level of accessibility to small business owners. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
