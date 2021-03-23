@@ -20,7 +20,7 @@ About Page on Square's website
 
 * How did the idea for the company (or project) come about?
 
-In February of 2009, Jack Dorsey and Jim McKelvey wanted to create a way for people to accept credit card payments on their mobile phone.
+In February of 2009, Jack Dorsey and Jim McKelvey wanted to create a way for people to accept credit card payments on their mobile phone.  
 
 * How is the company funded? How much funding have they received?
 
@@ -31,8 +31,12 @@ Stockholders' equity: $2,681,569
 Total funding: $8,223,957
 
 I assume those specific line items determine reveal the amount of funding a public company has received, but I could be wrong.  
-Source: "http://d18rn0p25nwr6d.cloudfront.net/CIK-0001512673/52bbe522-d4aa-4306-8975-9671e475c2f9.html#"  
+Source: "http://d18rn0p25nwr6d.cloudfront.net/CIK-0001512673/52bbe522-d4aa-4306-8975-9671e475c2f9.html#" 
 Square, Inc 10-K
+
+Prior to it's IPO, Square raised $509.5M.
+Source: "https://www.crunchbase.com/organization/square/company_financials"
+Square's Crunchbase
 
 
 ## Business Activities:
@@ -43,6 +47,7 @@ As stated above, square wants to allow people to accept card payments from their
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
