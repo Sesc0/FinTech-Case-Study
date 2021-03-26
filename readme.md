@@ -1,16 +1,14 @@
 # TITLE
-
+![robinhood-logo]("images\robinhood-vector-logo.png")
 ## Overview and Origin
 
 * Name of company
 
-Square, Inc.
+Robinhood Financial, LLC
 
 * When was the company incorporated?
 
-October 14, 2015  
-Source: http://d1lge852tjjqow.cloudfront.net/CIK-0001512673/4e45259f-3df5-4333-862d-25736bf555c0.pdf  
-Square's S-1 SEC filing
+
 
 * Who are the founders of the company?
 
@@ -59,6 +57,9 @@ Square is in the payments and remittances domain of the financial industry.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
+
+
+https://www.digipay.guru/blog/fintech-impact-on-international-remittance/
 * What are the other major companies in this domain?
 
 
@@ -80,3 +81,6 @@ Square is in the payments and remittances domain of the financial industry.
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+Sources:
+https://www.crunchbase.com/organization/robinhood
