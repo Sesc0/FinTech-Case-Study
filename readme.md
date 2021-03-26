@@ -1,5 +1,5 @@
 # TITLE
-![robinhood-logo]("images\robinhood-vector-logo.png")
+![robinhood-logo]("images/robinhood-vector-logo.png")
 ## Overview and Origin
 
 * Name of company
