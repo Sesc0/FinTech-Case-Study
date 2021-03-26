@@ -25,14 +25,17 @@ Robinhood has undergone 21 funding rounds, totaling 54 investors; Robinhood boas
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
-Robinhood set out to democratize investing through providing a comission-free brokerage available to all kinds of investors. Robinhood paved the road for millions to finally experiece a world tradionally reserved for the wealthy.
+Robinhood set out to democratize investing by providing a commission-free brokerage available to all kinds of investors. Robinhood paved the road for millions to finally experience a world traditionally reserved for the wealthy.
 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Robinhood's intended customer is the average retail investor. Typically, to truly reap the stock market's benefits, an investor had to have over $25,000 or $250,000 to invest in a hedge fund in the US. Through Robinhood, middle-class citizens could take small amounts of capital and make millions. 
  
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) Robinhood uses a digital infrastructure to process millions of trades a second. 
+Robin uses: AWS,
+
 
 
 ## Landscape:
