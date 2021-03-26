@@ -1,5 +1,5 @@
 # TITLE
-![robinhood-logo]("images/robinhood-vector-logo.png")
+![robinhood-logo]("https://seekvectorlogo.net/wp-content/uploads/2020/04/robinhood-vector-logo.png")
 ## Overview and Origin
 
 * Name of company
