@@ -6,9 +6,9 @@
 
 Robinhood Financial, LLC
 
-* When was the company incorporated?
+* **When was the company incorporated?**
 
-
+2013
 
 * Who are the founders of the company?
 
