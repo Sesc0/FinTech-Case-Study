@@ -42,12 +42,12 @@ Square's Crunchbase
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
-As stated above, square wants to allow people to accept card payments from their mobile devices. Square's products grant a new level of accessibility to small business owners as well as everyday consumers.  
+As stated above, square wants to allow people to accept card payments from their mobile devices. Square's products grant a new level of accessibility to small business owners as well as everyday consumers through cashapp. Square sets out to provide a instant and simple way for transactions to take place.
 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Square's indended customers are refered as "sellers," Squares sellers vary in sizes, ranging from sole-proprietors to multi-location businesses.
+Square's indended customers are refered as "sellers," Squares sellers vary in sizes, "ranging from sole-proprietors to multi-location businesses (Square 10-K)." 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -55,6 +55,7 @@ Square's indended customers are refered as "sellers," Squares sellers vary in si
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+Square is in the payments and remittances domain of the financial industry.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
