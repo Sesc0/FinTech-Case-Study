@@ -62,7 +62,7 @@ Robinhood's commission-free model affected the industry tremendously. Every stoc
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-Robinhood implemented features such as margin, options, credit spreads, crypto,  and fractional shares making them big competitors. My suggestion is Robinhood needs to start inflitrating the market of professional investors. One form of doing so is offering more such as forex, mutual funds, and shorting. Another feature Robinhood can add is advanced charting. 
+Robinhood implemented features such as margin, options, credit spreads, crypto,  and fractional shares making them big competitors. My suggestion for features to add are premium-subscription investment and retirement advice and adding advanced charting for all users. 
 
 * Why do you think that offering this product or service would benefit the company?
 
