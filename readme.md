@@ -2,24 +2,19 @@
 ![robinhood-logo](https://seekvectorlogo.net/wp-content/uploads/2020/04/robinhood-vector-logo.png)
 ## Overview and Origin
 
-* Name of company
-
+* Name of company  
 Robinhood Financial, LLC
 
-* **When was the company incorporated?**
-
+* **When was the company incorporated?**  
 2013
 
-* Who are the founders of the company?
-
+* Who are the founders of the company?  
 Baiju Bhatt & Vlad Tenev
 
-* How did the idea for the company (or project) come about?
-
+* How did the idea for the company (or project) come about?  
 Baiju Bhatt & Vlad Tenev realized Wall Street firms weren't paying commission fees, while retail investors sometimes lost all their profits paying for commissions. 
 
-* How is the company funded? How much funding have they received?
-
+* How is the company funded? How much funding have they received?  
 Robinhood has undergone 21 funding rounds, totaling 54 investors; Robinhood boasts $5.6B in total funding.
 
 ## Business Activities:
