@@ -1,4 +1,4 @@
-# TITLE
+# Robinhood Case Study
 ![robinhood-logo](https://seekvectorlogo.net/wp-content/uploads/2020/04/robinhood-vector-logo.png)
 ## Overview and Origin
 
