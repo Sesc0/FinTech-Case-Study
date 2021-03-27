@@ -23,8 +23,7 @@ Robinhood has undergone 21 funding rounds, totaling 54 investors; Robinhood boas
 Robinhood set out to democratize investing by providing a commission-free brokerage available to all kinds of investors. Robinhood paved the road for millions to finally experience a world traditionally reserved for the wealthy.
 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)  
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)  
 Robinhood's intended customer is the average retail investor. Typically, to truly reap the stock market's benefits, an investor had to have over $25,000 or $250,000 to invest in a hedge fund in the US. Through Robinhood, middle-class citizens could take small amounts of capital and make millions. 
  
 
@@ -49,7 +48,8 @@ There are a ton but to name a few: Fidelity, TD Ameritrade, Webull, and Interact
 * What has been the business impact of this company so far?  
 Robinhood's commission-free model affected the industry tremendously. Every stock brokerage had to convert to this model because of Robinhood. Furthermore, we can thank Robinhood for no account minimums. Robinhood was a significant catalyst in growing the population of retail investors.
 
-* What are some of the core metrics that companies in this domain use to measure success?   How is your company performing, based on these metrics?The number of users and revenue are great metrics to indicate success. Robinhood has about 13 million customers, and TD Ameritrade (TDA) has about 11 million customers. However, when comparing Robinhood's number of users to Fidelity, which boasts 35 million users, Robinhood is a small brokerage.  Robinhood's revenue is about $600 million, small compared to TDA's $1.6 billion, and minuscule compared to Fidelity's whopping $20.9 billion.
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  
+The number of users and revenue are great metrics to indicate success. Robinhood has about 13 million customers, and TD Ameritrade (TDA) has about 11 million customers. However, when comparing Robinhood's number of users to Fidelity, which boasts 35 million users, Robinhood is a small brokerage.  Robinhood's revenue is about $600 million, small compared to TDA's $1.6 billion, and minuscule compared to Fidelity's whopping $20.9 billion.
 
 * How is your company performing relative to competitors in the same domain?  
 Robinhood was doing well before restricting trades on GameStop (GME). Their decisions on the event showed they are far from being a big player in the industry and will probably never reach the point where they don't make money through payment for order flow—forcing Robinhood to stay a small brokerage forever.
